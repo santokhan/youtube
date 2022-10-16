@@ -15,3 +15,9 @@ console.log(
     ["data structure", "1400000", "1.55"],
   ])
 );
+
+/* Output CSV
+keyword,vol,cpc
+data,1500000,1.75
+data structure,1400000,1.55
+*/
